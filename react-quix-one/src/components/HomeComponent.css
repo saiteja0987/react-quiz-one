@@ -1,0 +1,19 @@
+body{
+    background-color: #47398d;
+}
+#homeComponent{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#QuizAPPheading{
+    color:white;
+}
+#playbutton{
+    color: white;
+    background-color: #0ab306;
+    padding: 10px 80px;
+    border-radius: 60px;
+    border-color: grey black black grey;
+}

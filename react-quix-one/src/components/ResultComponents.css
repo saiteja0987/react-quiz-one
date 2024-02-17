@@ -1,0 +1,44 @@
+body{
+    background-color: #47398d;
+}
+#resultComponent{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#ResultComponentHeading{
+    color:green;
+}
+#result-container{
+    background-color: white;
+    padding: 40px;
+    border-left: 5px solid #8686f3;
+    width: 550px;
+}
+#scorestatement{
+    color: blue;
+}
+.resultStatements{
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+}
+#playagain{
+    background-color: white;
+    color: blue;
+    padding: 5px;
+    border-width: 5px ;
+    border-color: #8f8fdb ;
+    margin: 20px 70px;
+    border-radius: 0px;
+}
+#backtohome{
+    border: 5px solid green;
+    background-color: white;
+    color: green;
+    padding: 5px;
+    border-width: 5px ;
+    border-color: #008001 ;
+    border-radius: 0px;
+}
